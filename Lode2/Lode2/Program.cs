@@ -10,6 +10,8 @@ namespace Lode2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("JSEM GOD");
+            Console.ReadLine();
         }
     }
 }
